@@ -285,7 +285,7 @@
           sub.className = 'link-sub';
           let hostname = link.url;
           try { hostname = new URL(link.url).hostname.replace(/^www\./, ''); } catch {}
-          sub.textContent = link.description ? link.description : hostname;
+          sub.textContent = hostname;
           body.appendChild(sub);
 
           a.appendChild(body);

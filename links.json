@@ -1,0 +1,20 @@
+{
+  "links": [
+    {
+      "id": "1773069322",
+      "title": "GitHub",
+      "url": "https://github.com",
+      "category": "開発",
+      "description": "コード管理サービス",
+      "createdAt": "2026-03-09T15:15:22Z"
+    },
+    {
+      "id": "1773069343",
+      "title": "Google",
+      "url": "https://google.com",
+      "category": "検索",
+      "description": "検索エンジン",
+      "createdAt": "2026-03-09T15:15:43Z"
+    }
+  ]
+}

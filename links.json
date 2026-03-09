@@ -188,6 +188,55 @@
       "url": "https://k-tai.watch.impress.co.jp",
       "category": "Learning",
       "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069891",
+      "title": "Zenn",
+      "url": "https://zenn.dev/",
+      "category": "Learning",
+      "createdAt": "2026-03-10T00:00:00Z"
+    },
+    {
+      "id": "1773069892",
+      "title": "Qiita",
+      "url": "https://qiita.com/",
+      "category": "Learning",
+      "createdAt": "2026-03-10T00:00:00Z"
+    },
+    {
+      "id": "1773069893",
+      "title": "Hacker News",
+      "url": "https://news.ycombinator.com/",
+      "category": "Learning",
+      "createdAt": "2026-03-10T00:00:00Z"
+    },
+    {
+      "id": "1773069894",
+      "title": "The Verge",
+      "url": "https://www.theverge.com/",
+      "category": "Learning",
+      "createdAt": "2026-03-10T00:00:00Z"
+    },
+    {
+      "id": "1773069895",
+      "title": "MIT Technology Review JP",
+      "url": "https://www.technologyreview.jp/",
+      "category": "Learning",
+      "createdAt": "2026-03-10T00:00:00Z"
+    },
+    {
+      "id": "1773069896",
+      "title": "Claude",
+      "url": "https://claude.ai/",
+      "category": "Tools",
+      "createdAt": "2026-03-10T00:00:00Z"
+    },
+    {
+      "id": "1773069897",
+      "title": "OpenAI Platform",
+      "url": "https://platform.openai.com/",
+      "category": "Tools",
+      "createdAt": "2026-03-10T00:00:00Z"
     }
   ]
 }

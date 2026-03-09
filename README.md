@@ -4,29 +4,36 @@
 
 ## 使い方
 
-### リンクを追加する
-
-**対話モード（引数なし）:**
 ```bash
 ./add-link.sh
 ```
 
-**引数指定モード:**
-```bash
-./add-link.sh -u <URL> -t <タイトル> -c <カテゴリ> -d <説明>
+起動するとメニューが表示される。
+
+```
+  a  追加
+  d  削除
+  u  更新
+  l  一覧
+  q  終了
 ```
 
-| オプション | 説明 |
+| 操作 | 流れ |
 |---|---|
-| `-u`, `--url` | 追加する URL（必須） |
-| `-t`, `--title` | タイトル（省略時は自動取得） |
-| `-c`, `--category` | カテゴリ（省略時: 未分類） |
-| `-d`, `--desc` | 説明文（省略可） |
-| `--no-push` | git push をスキップ |
+| 追加 | URL → タイトル自動取得 → カテゴリ・説明を入力 |
+| 削除 | 一覧から番号選択 → 確認 |
+| 更新 | 一覧から番号選択 → 変更する項目だけ入力（Enterでスキップ） |
+| 一覧 | カテゴリ別で全件表示 |
 
-実行すると `links.json` に追記し、自動で `git commit & push` → GitHub Pages にデプロイされる。
+操作後は自動で `git commit & push` → GitHub Pages にデプロイされる。
 
-### ローカルで確認する
+`fzf` をインストールすると削除・更新の選択がファジー検索になる。
+
+```bash
+brew install fzf
+```
+
+## ローカルで確認する
 
 ```bash
 python3 -m http.server 3000
@@ -37,13 +44,13 @@ python3 -m http.server 3000
 ## GitHub Pages の初期設定
 
 1. このリポジトリを GitHub に push する
-2. GitHub リポジトリの **Settings → Pages** で Source を `GitHub Actions` に設定する
+2. **Settings → Pages** で Source を `GitHub Actions` に設定する
 
 ## 構成
 
 ```
 MyURL/
-├── index.html              # サイト本体（ダークテーマ・カテゴリ別・検索付き）
+├── index.html              # サイト本体
 ├── links.json              # リンクデータ
 ├── add-link.sh             # CLIスクリプト
 └── .github/workflows/

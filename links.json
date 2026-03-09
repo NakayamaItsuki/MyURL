@@ -1,13 +1,6 @@
 {
   "links": [
     {
-      "id": "1773069343",
-      "title": "Google",
-      "url": "https://google.com",
-      "category": "検索",
-      "createdAt": "2026-03-09T15:15:43Z"
-    },
-    {
       "id": "1773069863",
       "title": "Twitter",
       "url": "https://x.com/home",

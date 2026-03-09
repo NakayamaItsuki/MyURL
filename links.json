@@ -216,6 +216,13 @@
       "url": "Perplexity AI",
       "category": "Tools",
       "createdAt": "2026-03-09T15:54:53Z"
+    },
+    {
+      "id": "1773071816",
+      "title": "ChatGPT",
+      "url": "https://chatgpt.com/",
+      "category": "Tools",
+      "createdAt": "2026-03-09T15:56:56Z"
     }
   ]
 }

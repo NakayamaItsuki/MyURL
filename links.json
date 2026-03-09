@@ -223,6 +223,13 @@
       "url": "https://chatgpt.com/",
       "category": "Tools",
       "createdAt": "2026-03-09T15:56:56Z"
+    },
+    {
+      "id": "1773071868",
+      "title": "Google AI Studio",
+      "url": "https://aistudio.google.com/prompts/new_chat",
+      "category": "Tools",
+      "createdAt": "2026-03-09T15:57:48Z"
     }
   ]
 }

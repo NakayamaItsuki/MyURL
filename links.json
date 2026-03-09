@@ -15,6 +15,222 @@
       "category": "検索",
       "description": "検索エンジン",
       "createdAt": "2026-03-09T15:15:43Z"
+    },
+    {
+      "id": "1773069863",
+      "title": "Twitter",
+      "url": "https://x.com/home",
+      "category": "Social",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069864",
+      "title": "AI News",
+      "url": "https://news.smol.ai/",
+      "category": "Learning",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069865",
+      "title": "GitHubホーム",
+      "url": "https://github.com/NakayamaItsuki",
+      "category": "Work",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069866",
+      "title": "YouTube",
+      "url": "https://www.youtube.com/",
+      "category": "Entertainment",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069868",
+      "title": "Overleaf",
+      "url": "https://www.overleaf.com/project/",
+      "category": "Work",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069869",
+      "title": "Notion",
+      "url": "https://www.notion.so/",
+      "category": "Work",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069870",
+      "title": "Googleドライブ",
+      "url": "https://drive.google.com/drive/my-drive",
+      "category": "Work",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069871",
+      "title": "Anthropicコンソール",
+      "url": "https://console.anthropic.com/dashboard",
+      "category": "Tools",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069872",
+      "title": "Cursor設定",
+      "url": "https://www.cursor.com/ja/settings",
+      "category": "Tools",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069873",
+      "title": "DeepSeek設定",
+      "url": "https://platform.deepseek.com/usage",
+      "category": "Tools",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069874",
+      "title": "Koan",
+      "url": "https://koan.osaka-u.ac.jp/",
+      "category": "Work",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069875",
+      "title": "CLE",
+      "url": "https://www.cle.osaka-u.ac.jp/",
+      "category": "Work",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069876",
+      "title": "BooksApp",
+      "url": "https://blog.tinect.jp/",
+      "category": "Learning",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069877",
+      "title": "ITmedia",
+      "url": "https://www.itmedia.co.jp/news/",
+      "category": "Learning",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069878",
+      "title": "IT media AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/subtop/genai/index.html",
+      "category": "Learning",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069879",
+      "title": "日経XTECH",
+      "url": "https://xtech.nikkei.com/",
+      "category": "Learning",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069880",
+      "title": "Techmeme",
+      "url": "https://www.techmeme.com/",
+      "category": "Learning",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069881",
+      "title": "CodeZine",
+      "url": "https://codezine.jp/",
+      "category": "Learning",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069882",
+      "title": "はてなブックマーク，テクノロジー",
+      "url": "https://b.hatena.ne.jp/hotentry/it",
+      "category": "Learning",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069883",
+      "title": "はてなニュース",
+      "url": "https://hatenanews.com/",
+      "category": "Learning",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069884",
+      "title": "@IT",
+      "url": "https://atmarkit.itmedia.co.jp/",
+      "category": "Learning",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069885",
+      "title": "pythonanywhere",
+      "url": "https://www.pythonanywhere.com/user/snooipynb/webapps/#tab_id_snooipynb_pythonanywhere_com",
+      "category": "Tools",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069886",
+      "title": "阪大，食堂・売店売店",
+      "url": "https://www.osaka-u.ac.jp/ja/campus/life/welfare.html",
+      "category": "Tools",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069887",
+      "title": "阪大 食堂 営業時間",
+      "url": "https://osaka-univ.coop/time/schedule_202504.html",
+      "category": "Tools",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069888",
+      "title": "firebase studio",
+      "url": "https://studio.firebase.google.com/",
+      "category": "Tools",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069889",
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/feed/",
+      "category": "Social",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
+    },
+    {
+      "id": "1773069890",
+      "title": "ケータイウォッチ",
+      "url": "https://k-tai.watch.impress.co.jp",
+      "category": "Learning",
+      "description": "",
+      "createdAt": "2026-03-09T15:24:23Z"
     }
   ]
 }

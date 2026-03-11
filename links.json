@@ -279,6 +279,13 @@
       "url": "https://login.sbisec.co.jp/login/entry",
       "category": "Others",
       "createdAt": "2026-03-11T17:34:09Z"
+    },
+    {
+      "id": "1773250718",
+      "title": "PLaMo翻訳",
+      "url": "https://app.translate.preferredai.jp/",
+      "category": "Tools",
+      "createdAt": "2026-03-11T17:38:38Z"
     }
   ]
 }
